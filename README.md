@@ -1,4 +1,4 @@
 # 36-350
-"hello world!"
+print("hello world!")
 
 
